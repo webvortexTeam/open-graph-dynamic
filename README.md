@@ -1,8 +1,5 @@
 # dynamic-open-graph
 
-<p align="center" >
-<img src=".assets/logo-dark.svg" />
-<P/>
  <p align="center">
   <img src="https://img.shields.io/static/v1?label=Dynamic Open Graph&message=Welcome&color=FFFFFF&labelColor=635FC7" alt="Unsplash welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=635FC7">
