@@ -60,6 +60,6 @@ function SEO(props) {
 
 Result:
 
-![open graph]('./.assets/exemple/open-graph.png')
+![open graph](.assets/exemple/open-graph.png)
 
 [MIT](https://github.com/yazaldefilimonepinto/dynamic-open-graph/blob/main/LICENSE) © [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
