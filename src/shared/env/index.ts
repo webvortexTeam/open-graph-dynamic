@@ -1,3 +1,3 @@
-const env = {
-  baseUrl: "http://localhost:3000/api/open-graph",
+export const env = {
+  baseUrl: 'https://open-graph-dymanic.vercel.app/api/open-graph',
 };
