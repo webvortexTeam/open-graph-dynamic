@@ -1,6 +1,5 @@
-import http from 'http';
-import { env } from '~/shared/env';
-import { validationOpenGraphProps } from '~/shared/validators';
+import { env } from '../shared/env';
+import { validationOpenGraphProps } from '../shared/validators';
 import { openGraphInputType, openGraphOutputType } from './protocols';
 import queryString from 'query-string';
 
