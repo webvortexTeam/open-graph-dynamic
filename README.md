@@ -13,4 +13,23 @@ package stars package node.js, react.js and next.js vue.js, nuxt.js and remix fo
 
 <a id="license"></a>
 
+```ts
+const data: openGraphInputType = {
+  title:
+    'Automatically Generate OG Images From Post Content Automatically Generate OG Images From Post Content Automatically Generate OG Images From Post Content',
+  tags: ['#next', '#react', '#microfronds'],
+  timestamp: 'November 11, 2022',
+  url: 'yazaldefilimone.dev',
+  user: {
+    name: `Yazalde Filimone`,
+    username: `@yazaldefilimone`,
+    image: 'https://github.com/yazaldefilimonepinto.png',
+  },
+};
+
+openGraph(data).then((data) => {
+  console.log({ data });
+});
+```
+
 [MIT](https://github.com/yazaldefilimonepinto/dynamic-open-graph/blob/main/LICENSE) © [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
