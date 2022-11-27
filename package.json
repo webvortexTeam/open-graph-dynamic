@@ -1,6 +1,6 @@
 {
   "name": "open-graph-dynamic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "bin.ts",
   "description": "A package for dynamic generate og image for blog/posts based in templates simples and customs, support all platforms JavaScript & TypeScript.",
   "repository": "https://github.com/yazaldefilimonepinto/dynamic-open-graph",
