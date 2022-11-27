@@ -1,9 +1,9 @@
  <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Dynamic Open Graph&message=Welcome&color=FFFFFF&labelColor=635FC7" alt="Unsplash welcome!" />
+  <img src="https://img.shields.io/static/v1?label=Open Graph Dynamic&message=Welcome&color=FFFFFF&labelColor=635FC7" alt="Unsplash welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=635FC7">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=635FC7">
-  <img alt="Stars" src="https://img.shields.io/github/stars/yazaldefilimonepinto/dynamic-open-graph?color=FFFFFF&labelColor=635FC7">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/dynamic-open-graph?color=FFFFFF&labelColor=635FC7">
+  <img alt="Stars" src="https://img.shields.io/github/stars/yazaldefilimonepinto/open-graph-dynamic?color=FFFFFF&labelColor=635FC7">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/open-graph-dynamic?color=FFFFFF&labelColor=635FC7">
 </p>
 <p align="center" >
 A package for dynamic generate og image for blog/posts based in templates simples and customs, support all platforms JavaScript & TypeScript.
@@ -60,6 +60,6 @@ function SEO(props) {
 
 Result:
 
-![open graph](.assets/exemple/open-graph.png)
+![open graph](https://github.com/yazaldefilimonepinto/open-graph-dynamic/blob/main/.assets/exemple/open-graph.png)
 
 [MIT](https://github.com/yazaldefilimonepinto/dynamic-open-graph/blob/main/LICENSE) © [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
