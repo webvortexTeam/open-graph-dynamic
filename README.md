@@ -1,3 +1,4 @@
+ <samp> 
  <p align="center">
   <img src="https://img.shields.io/static/v1?label=Open Graph Dynamic&message=Welcome&color=FFFFFF&labelColor=635FC7" alt="Unsplash welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=version&message=1.0&color=FFFFFF&labelColor=635FC7">
@@ -63,3 +64,4 @@ Result:
 ![open graph](https://github.com/yazaldefilimonepinto/open-graph-dynamic/blob/main/.assets/exemple/open-graph.png)
 
 [MIT](https://github.com/yazaldefilimonepinto/dynamic-open-graph/blob/main/LICENSE) © [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
+</samp>
